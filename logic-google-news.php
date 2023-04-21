@@ -3,7 +3,7 @@
 * Plugin Name: Logic - Google News Sitemap
 * Description: XML Sitemap for Google News
 * Author: Logic Design & Consultancy Ltd
-* Version: 1.0.0
+* Version: 1.0.1
 */
 
 class Logic_Google_News
