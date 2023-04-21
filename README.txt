@@ -1,4 +1,3 @@
-
 ![Logo](https://avatars.githubusercontent.com/u/7678317?s=100)
 
 #  Google News XML Sitemap (WordPress Plugin)
