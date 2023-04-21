@@ -1,0 +1,1 @@
+# Logic: Google News Sitemap
